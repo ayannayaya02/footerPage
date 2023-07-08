@@ -1,7 +1,7 @@
 
 .hero{
     text-align:center;
-    padding:20px 10px 20px;
+    padding:40px 10px 40px;
   background: #f5f2fe;
 ;
 }
@@ -18,9 +18,13 @@ img{
 footer {
     text-align:center;
     padding:15px;
+    color:black;
     margin:20px 20px 20px;
 }
 
+footer a{
+    color:black;
+}
 .footer-dec{
   background: #f5f2fe;
 
@@ -35,6 +39,7 @@ background:violet;
   text-decoration: none;
 
 }
+
 
 @media (max-width:576px){
     img{
